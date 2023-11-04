@@ -36,3 +36,5 @@ const UserWithId: GenericTuple<number, { name: string; email: string }> = [
   123,
   { name: "ABir", email: "mhabir10@gmail.com" },
 ];
+
+const rakib: string = "rakib";
